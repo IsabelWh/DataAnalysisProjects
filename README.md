@@ -1,18 +1,20 @@
-# Netflix Seasonality
-## A glance at if/how season in the northern hemisphere affects Netflix content
+# Data Analysis Portfolio Projects
 
-## Project Overview
--Inspect the dataset
+Here you will find a selection of my data analysis and visualisation projects.
 
--Cleanse the dataset as required
+I'm continuously learning, so keen for comments, suggestions and advice!
+<hr>
 
--Identify trends between season and content added to the platform
+## Projects
 
-## Data Source
-The data is a csv file of Netflix TV Show and Movie meta data.
+**Python**
 
-## Tools
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+  -England House Price Analysis
+
+  -Salmon & Sea Trout Catch Analysis
+
+**Power Bi**
+
+  -Bird Species Trends
+
+  -Sales Data Analysis
