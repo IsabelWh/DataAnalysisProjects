@@ -13,7 +13,7 @@ I'm continuously learning, so keen for comments, suggestions and advice!
 
   -[Salmon & Sea Trout Catch Analysis]
 
-  -[Netflix Sesonality Glance]
+  -[Netflix Sesonality Glance](/netflix-seasonality.ipynb)
 
 **Power Bi**
 
