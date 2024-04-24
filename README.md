@@ -13,8 +13,13 @@ I'm continuously learning, so keen for comments, suggestions and advice!
 
   -Salmon & Sea Trout Catch Analysis
 
+  -Netflix Sesonality Glance
+
 **Power Bi**
 
   -Bird Species Trends
 
   -Sales Data Analysis
+
+**SQL**
+  -Alcoholic Drinks Analysis
