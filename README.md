@@ -9,18 +9,18 @@ I'm continuously learning, so keen for comments, suggestions and advice!
 
 **Python**
 
-  -England House Price Analysis
+  -[England House Price Analysis]
 
-  -Salmon & Sea Trout Catch Analysis
+  -[Salmon & Sea Trout Catch Analysis]
 
-  -Netflix Sesonality Glance
+  -[Netflix Sesonality Glance]
 
 **Power Bi**
 
-  -Bird Species Trends
+  -[Bird Species Trends]
 
-  -Sales Data Analysis
+  -[Sales Data Analysis]
 
 **SQL**
 
-  -Alcoholic Drinks Analysis
+  -[Alcoholic Drinks Analysis]
