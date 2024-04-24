@@ -22,4 +22,5 @@ I'm continuously learning, so keen for comments, suggestions and advice!
   -Sales Data Analysis
 
 **SQL**
+
   -Alcoholic Drinks Analysis
