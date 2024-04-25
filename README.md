@@ -2,6 +2,8 @@
 
 Here you will find a selection of my data analysis and visualisation projects.
 
+There are some REALLY GOOD ones coming, but I'm just ironing them out before I add them))
+
 I'm continuously learning, so keen for comments, suggestions and advice!
 <hr>
 
