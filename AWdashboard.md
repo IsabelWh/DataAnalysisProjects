@@ -37,7 +37,7 @@ I normalised the database by creating a <b>data model</b>. I connected the the t
 
 Next, I created Measures (using DAX formulas) for Revenue, Returns, Profits etc, in their related columns to keep it tidy and easy to work with. 
 
-3 -Report View
+### Report View
 
 Using report view, I imported the logo first, to inform my decision making regarding the colour scheme and themes.
 
@@ -61,6 +61,6 @@ The dashboard has the following features:
 
 - A nested Bar Chart showing Total Orders By Subcategory
 
-  <a href="https://stackoverflow.com/"><img src="https://github.com/IsabelWh/DataAnalysisProjects/blob/main/AW_dashboard_screenshot.png></img></a>
+  <img src="https://github.com/IsabelWh/DataAnalysisProjects/blob/main/AW_dashboard_screenshot.png></img></a>
 
 
