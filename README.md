@@ -21,7 +21,7 @@ I'm continuously learning, so keen for comments, suggestions and advice!
 
   -[Bird Species Trends]
 
-  -[Sales Data Analysis]
+  -[Sales Data Analysis](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/AWdashboard.md)
 
 **SQL**
 
