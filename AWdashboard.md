@@ -61,6 +61,6 @@ The dashboard has the following features:
 
 - A nested Bar Chart showing Total Orders By Subcategory
 
-  <img src="https://github.com/IsabelWh/DataAnalysisProjects/blob/main/AW_dashboard_screenshot.png></img></a>
+![Alt text](https://github.com/IsabelWh/DataAnalysisProjects/blob/7004ed15ecc8db05c0b4330cf29aad34c2558342/AW_dashboard_screenshot.png)
 
 
