@@ -11,9 +11,9 @@ I'm continuously learning, so keen for comments, suggestions and advice!
 
 **Python**
 
-  - [England House Price Analysis]
+  - [House Price Analysis 1]
 
-  - [House Price Analysis 2- 'England: Average House Price 1999 by Region'](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/Choropleth.ipynb)
+  - [House Price Analysis 2](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/Choropleth.ipynb)
 
   - [Salmon & Sea Trout Catch Analysis]
 
