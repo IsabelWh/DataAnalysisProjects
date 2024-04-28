@@ -24,4 +24,7 @@ The dashboard has the following features:
 
 
 
-![Alt text](https://github.com/IsabelWh/DataAnalysisProjects/blob/937c135007f7b2f71b975630e21ab603da7ea4f1/Bird_Species_Dashboard.png)
+![Alt text](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/Blackbird.png)
+![Alt text](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/Wren.png)
+![Alt text](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/Avocet.png)
+
