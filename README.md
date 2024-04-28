@@ -13,13 +13,14 @@ I'm continuously learning, so keen for comments, suggestions and advice!
 
   - [House Price Analysis 1]
 
-  - [House Price Analysis 2](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/Choropleth.ipynb) <i> Creating a choropleth map using a pandas dataframe and a geojson file</i>
-  - [Salmon & Sea Trout Catch Analysis]
+  - [House Price Analysis 2](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/Choropleth.ipynb) <i> -creating a choropleth map using a pandas dataframe and a geojson file</i>
+  
+  - [Salmon & Sea Trout Catch Analysis] <i> -analysing historic fisheries data to uncover overall trends and insights into salmon and sea trout populations of Scotland</h>
 
-  - [Seasonality of Netflix Content](/netflix-seasonality.ipynb)
+  - [Seasonality of Netflix Content](/netflix-seasonality.ipynb) <i> -discovering structural trends to content and using pandas to explore whether content is impacted by season of the year</i>
 
 **Power Bi**
 
-  - [Bird Species Trends](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/Bird_Trends.md)
+  - [Bird Species Trends](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/Bird_Trends.md) <i> -transforming bird survey data into an interactive dashboard that gives information about population increase/decline for a given species of bird</i>
 
-  - [Sales Data Analysis](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/AWdashboard.md)
+  - [Sales Data Analysis](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/AWdashboard.md) <i> -creating an interactive sales report that displays KPIs and other key information based on historic sales data</i>
