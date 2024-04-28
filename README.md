@@ -10,10 +10,10 @@ Open to comments, suggestions and advice!
 
 **Python**
 
-  - [House Price Analysis 1]
+  - [House Price Analysis 1]() <i> -investigating overall house price trends for England and identifying property hotspots</i>
     
 
-  - [House Price Analysis 2](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/Choropleth.ipynb) <i> -creating a choropleth map using a pandas dataframe and a geojson file</i>
+  - [House Price Analysis 2](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/Choropleth.ipynb) <i> -creating a choropleth map showing average house price, using a pandas dataframe and a geojson file</i>
   
   
   - [Salmon & Sea Trout Catch Analysis] <i> -analysing historic fisheries data to uncover overall trends and insights into salmon and sea trout populations of Scotland</i>
