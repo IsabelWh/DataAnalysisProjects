@@ -14,14 +14,7 @@ This tool must be suitable for use by those with only basic IT skills and presen
 
 ## About the Data
 
--The data provided consists of 7 csv files:
-  -Calendar
-  -Customer
-  -Territories
-  -Sales
-  -Returns
-  -Products
-  -Product Categories
+-The data provided consists of 7 csv files: Calendar, Customer, Territories, Sales, Returns, Products, Product Categories
 
 ## Actions using PowerBI:
  
