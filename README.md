@@ -11,18 +11,20 @@ I'm continuously learning, so keen for comments, suggestions and advice!
 
 **Python**
 
-  -[England House Price Analysis]
+  - [England House Price Analysis]
 
-  -[Salmon & Sea Trout Catch Analysis]
+  - [House Price Analysis 2- 'England: Average House Price 1999 by Region'](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/Choropleth.ipynb)
 
-  -[Seasonality of Netflix Content](/netflix-seasonality.ipynb)
+  - [Salmon & Sea Trout Catch Analysis]
+
+  - [Seasonality of Netflix Content](/netflix-seasonality.ipynb)
 
 **Power Bi**
 
-  -[Bird Species Trends](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/Bird_Trends.md)
+  - [Bird Species Trends](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/Bird_Trends.md)
 
-  -[Sales Data Analysis](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/AWdashboard.md)
+  - [Sales Data Analysis](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/AWdashboard.md)
 
 **SQL**
 
-  -[Alcoholic Drinks Analysis]
+  - [Alcoholic Drinks Analysis]
