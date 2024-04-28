@@ -13,8 +13,7 @@ I'm continuously learning, so keen for comments, suggestions and advice!
 
   - [House Price Analysis 1]
 
-  - [House Price Analysis 2](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/Choropleth.ipynb)
-
+  - [House Price Analysis 2](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/Choropleth.ipynb) <i> Creating a choropleth map using a pandas dataframe and a geojson file</i>
   - [Salmon & Sea Trout Catch Analysis]
 
   - [Seasonality of Netflix Content](/netflix-seasonality.ipynb)
