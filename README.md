@@ -15,7 +15,7 @@ I'm continuously learning, so keen for comments, suggestions and advice!
 
   - [House Price Analysis 2](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/Choropleth.ipynb) <i> -creating a choropleth map using a pandas dataframe and a geojson file</i>
   
-  - [Salmon & Sea Trout Catch Analysis] <i> -analysing historic fisheries data to uncover overall trends and insights into salmon and sea trout populations of Scotland</h>
+  - [Salmon & Sea Trout Catch Analysis] <i> -analysing historic fisheries data to uncover overall trends and insights into salmon and sea trout populations of Scotland</i>
 
   - [Seasonality of Netflix Content](/netflix-seasonality.ipynb) <i> -discovering structural trends to content and using pandas to explore whether content is impacted by season of the year</i>
 
