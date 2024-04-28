@@ -8,9 +8,9 @@ This will help inform and shape their decision making for the future.
 
 ## Task:
 
-Develop an interactive dashboard in PowerBI to allow others to analyse and visualise Adventure Works Sales data.
+Develop an interactive dashboard in PowerBI to allow users to analyse and visualise Adventure Works Sales data.
 
-This tool must be suitable for use by those with only basic IT skills and present information clearly and simply. 
+This tool must be suitable for users with only basic IT skills and present information clearly and simply. 
 
 ## About the Data
 
