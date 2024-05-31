@@ -33,7 +33,7 @@ I'm keen to learn, so open to comments, optimisation suggestions and advice!
 
 **Excel**
 
-- [House Price Analysis 3]() <i> -identifying property hotspots 2019-2022</i>
+- [House Price Analysis 3](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/HousePrice3.md) <i> -identifying property hotspots 2019-2022</i>
 
 <hr>
 
