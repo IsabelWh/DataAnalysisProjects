@@ -1,4 +1,4 @@
-# Houe Price Analysis 3
+# Housing Market Analysis
 
 ## Objectives:
 
