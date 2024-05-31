@@ -38,4 +38,4 @@ I'm keen to learn, so open to comments, optimisation suggestions and advice!
 <hr>
 ## Contacts
 
- - (LinkedIn)[www.linkedin.com/in/isabel-a-whitaker-42b385299]
+ - [LinkedIn](www.linkedin.com/in/isabel-a-whitaker-42b385299)
