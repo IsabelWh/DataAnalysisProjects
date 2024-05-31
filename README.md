@@ -29,3 +29,8 @@ I'm keen to learn, so open to comments, optimisation suggestions and advice!
   
 
   - [Sales Data Analysis](https://github.com/IsabelWh/DataAnalysisProjects/blob/main/AWdashboard.md) <i> -creating an interactive sales report that displays KPIs and other key information based on historic sales data</i>
+
+
+**Excel**
+
+-Identifying Property Hotspots 2019-2022
