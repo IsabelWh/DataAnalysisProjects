@@ -39,4 +39,4 @@ I'm keen to learn, so open to comments, optimisation suggestions and advice!
 
 ## Contacts
 
- - [LinkedIn](www.linkedin.com/in/isabel-a-whitaker-42b385299)
+ - [LinkedIn](https://www.linkedin.com/in/isabel-a-whitaker-42b385299)
