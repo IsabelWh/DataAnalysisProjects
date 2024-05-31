@@ -1,7 +1,7 @@
 # Data Analysis Portfolio Projects
 
 Here you will find a selection of my data analysis and visualisation projects.
-I'm keen to learn, so open to comments, optimisation suggestions and advice!
+I'm keen to improve, so open to comments, optimisation suggestions and advice!
 <hr>
 
 ## Projects
